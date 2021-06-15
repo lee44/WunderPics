@@ -1,0 +1,86 @@
+{
+  "salesSummary": {
+    "totalSales": "14.40",
+    "salesUpdated": "3 Hours ago",
+    "photosSold": "4",
+    "photosSoldUpdated": "Just Now"
+  },
+  "orders": [
+    {
+      "id": 51941209421,
+      "purchaseDate": "May 19, 2021",
+      "totalProfit": "13.20",
+      "commission": "2.20",
+      "numberOfPhotos": "3",
+      "customer": "Jane Doe",
+      "lineItems": [
+        {
+          "price": "10.00",
+          "name": "SS HB Pier_0029.jpg",
+          "photo_timestamp": "2021-05-29T23:34:50.322Z",
+          "width": 3251,
+          "height": 2168,
+          "size": "13mb",
+          "thumbnail_url": "http://res.cloudinary.com/dv0pjduft/image/private/c_fill,h_400,w_600/v1618334911/kkujxo8uc8vpokd73s5e.jpg",
+          "productId": 94,
+          "photoDate": "April  9, 2021",
+          "photoTime": "08:47:54AM",
+          "activityName": "Surfing",
+          "locationName": "South Side Pier | Huntington Beach, CA"
+        },
+        {
+          "price": "1.00",
+          "name": "IMG_3066.jpg",
+          "photo_timestamp": "2021-05-29T23:34:49.533Z",
+          "width": 256,
+          "height": 192,
+          "size": "12mb",
+          "thumbnail_url": "http://res.cloudinary.com/dv0pjduft/image/private/c_fill,h_400,w_600/v1618334908/rnoh9qrvop3wcx9vr0gm.jpg",
+          "productId": 5,
+          "photoDate": "April 29, 2020",
+          "photoTime": "10:24:32PM",
+          "activityName": "Surfing",
+          "locationName": "South Side Pier | Huntington Beach, CA"
+        },
+        {
+          "price": "0.00",
+          "name": "62863603650__237185F1-D99D-49C0-9E53-4784012238DF.jpg",
+          "photo_timestamp": "2021-05-29T23:34:49.991Z",
+          "width": 3024,
+          "height": 4032,
+          "size": "20mb",
+          "thumbnail_url": "http://res.cloudinary.com/dv0pjduft/image/private/c_fill,h_400,w_600/v1618334904/moplzedn8olnea8ydifj.jpg",
+          "productId": 47,
+          "photoDate": "December  2, 2020",
+          "photoTime": "11:07:16AM",
+          "activityName": "Surfing",
+          "locationName": "South Side Pier | Huntington Beach, CA"
+        }
+      ]
+    },
+    {
+      "id": 51941209429,
+      "purchaseDate": "May 23, 2021",
+      "totalProfit": "1.20",
+      "commission": "0.20",
+      "numberOfPhotos": "1",
+      "customer": "Tom Space",
+      "lineItems": [
+        {
+          "price": "1.00",
+          "name": "IMG_5879.JPG",
+          "photo_timestamp": "2021-05-29T23:34:49.561Z",
+          "width": 4032,
+          "height": 3024,
+          "size": "2mb",
+          "thumbnail_url": "https://res.cloudinary.com/dv0pjduft/image/private/c_fill,h_400,w_600/v1618334910/mi211o4bzv1wd5kfruwn.jpg",
+          "productId": 14,
+          "photoDate": "November 26, 2020",
+          "photoTime": "06:49:27PM",
+          "activityName": "Surfing",
+          "locationName": "North Side Pier | Huntington Beach, CA"
+        }
+      ]
+    }
+  ]
+}
